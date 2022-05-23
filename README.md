@@ -8,14 +8,6 @@ inside the game and tracking camera position using fiducial markers.
 It was created by <b>Krzysztof Lis (Adynathos)</b> as part of a project for <b>ETH Zürich</b>.
 </p>
 
-<h2>News</h2>
-
-Version <b>1.2.05</b> - build for UE 4.19, OpenCV 3.4.1:
-<ul>
-<li><a href="https://github.com/adynathos/AugmentedUnreality/releases/download/1.2.05/AugmentedUnreality_1_2_05.7z">Plugin</a></li>
-<li><a href="https://github.com/adynathos/AugmentedUnreality/releases/download/1.2.05/AugmentedUnrealityEx_1_2_05.7z">Example project</a></li>
-</ul>
-
 <h2>Features</h2>
 <p>
 <ul>
@@ -34,26 +26,6 @@ Version <b>1.2.05</b> - build for UE 4.19, OpenCV 3.4.1:
 <li>Linux</li>
 <li>Android</li>
 </ul>
-
-<h2>Video Presentation</h2>
-<figure>
-<a href="https://www.youtube.com/watch?v=Ys8br7AKW9g">
-	<img src="Documentation/images/video_link.jpg" width="600"/>
-</a>
-</figure>
-
-<h2 name="downloads">Downloads</h2>
-<p>
-<a href="https://github.com/adynathos/AugmentedUnreality/releases">Download Section</a>
-<ul>
-	<li><a name="downloads_plugin" href="https://github.com/adynathos/AugmentedUnreality/releases/download/1.2.05/AugmentedUnreality_1_2_05.7z">Augmented Unreality Plugin</a>
-		- the plugin files only, 
-	</li>
-	<li><a name="downloads_project" href="https://github.com/adynathos/AugmentedUnreality/releases/download/1.2.05/AugmentedUnrealityEx_1_2_05.7z">Augmented Unreality Example Project</a>
-		- an example project using the plugin
-	</li> 
-</ul>
-</p>
 
 <h2 name="install">Installation</h2>
 
